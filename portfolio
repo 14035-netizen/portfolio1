@@ -1,0 +1,20 @@
+portfolio/
+│
+├── index.html
+├── about.html
+├── education.html
+├── portfolio.html
+├── contact.html
+│
+├── css/
+│      style.css
+│
+├── js/
+│      script.js
+│
+├── images/
+│      profile.jpg
+│      cover.jpg
+│      project1.jpg
+│
+└── README.md
