@@ -1,20 +1,28 @@
-portfolio/
-│
-├── index.html
-├── about.html
-├── education.html
-├── portfolio.html
-├── contact.html
-│
-├── css/
-│      style.css
-│
-├── js/
-│      script.js
-│
-├── images/
-│      profile.jpg
-│      cover.jpg
-│      project1.jpg
-│
-└── README.md
+<section id="about">
+        <h2 class="section-title">ประวัติส่วนตัว</h2>
+        <div class="about-wrapper">
+            
+            <div class="about-img-container">
+                <div class="about-img-box">
+                    <img src="https://via.placeholder.com/300x350" alt="My Profile Picture">
+                </div>
+            </div>
+            
+            <div class="about-text-content">
+                <h3>ยินดีต้อนรับสู่โลกของการพัฒนาเว็บไซต์</h3>
+                <p>สวัสดีครับ! ผมชื่อ <strong>[ชื่อของคุณ]</strong> ผมเป็นคนที่หลงใหลในเทคโนโลยีและการสร้างสรรค์สิ่งใหม่ๆ บนโลกอินเทอร์เน็ต เริ่มต้นจากการเรียนรู้ด้วยตัวเองจนเกิดเป็นความรักในการเขียนโค้ด มุ่งมั่นที่จะพัฒนาเว็บไซต์ที่ตอบโจทย์ผู้ใช้งานและมีความสวยงามในเวลาเดียวกัน</p>
+                
+                <div class="about-info-grid">
+                    <div class="info-item">📌 <strong>ชื่อเล่น:</strong> [ชื่อเล่น]</div>
+                    <div class="info-item">🎂 <strong>อายุ:</strong> [อายุ] ปี</div>
+                    <div class="info-item">📍 <strong>ที่อยู่:</strong> กรุงเทพฯ, ประเทศไทย</div>
+                    <div class="info-item">💼 <strong>สถานะ:</strong> พร้อมรับงาน / กำลังศึกษา</div>
+                </div>
+
+                <a href="#" class="btn-download" download>
+                    📥 ดาวน์โหลด Resume (PDF)
+                </a>
+            </div>
+
+        </div>
+    </section>
